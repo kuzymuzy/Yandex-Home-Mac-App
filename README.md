@@ -7,7 +7,7 @@
 
 Работает этот app с macOS 11.00, про баги писать даже не стоит, все либо в yandex либо молчать в тряпочку)))
 
-<img width="519" height="868" alt="Скриншотик" src="https://github.com/user-attachments/assets/ed3c7523-0d32-4347-9adf-96530e9a7d01" /> 
+<img width="40%" height="50%" alt="Снимок экрана 2025-07-30 в 21 04 28" src="https://github.com/user-attachments/assets/0e1c1ed1-729c-4a34-8a39-d56e24024038" />
 
 # Для тех кто дофига параноик
 Рассказываю как собрать такое вручную на своем mac:
